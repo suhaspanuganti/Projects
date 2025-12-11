@@ -25,3 +25,6 @@ Keyboard & Voice Controls: P – Page summary
 Shift + P – Priority-only summary 1 / 2 / 3 – Priority marking Space – Pause/Resume
 ESC – Stop TTS
 Ctrl + Shift + A – Re-summarize V – Activate voice recognition
+
+
+The output may not be visible because the OPENAI key we used for ai has been diabled as it was posted online. check the video above for output
