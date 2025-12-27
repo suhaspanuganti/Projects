@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "AI Smart Reader (Modular NLP + AI)",
+  "version": "0.3.0",
+  "description": "AI Smart Reader with modular NLP, AI summarization via backend, ad/donation skipping, overlays, TTS, and keyboard controls.",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "<all_urls>",
+    "https://api.openai.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "AI Smart Reader (Modular NLP + AI)"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "ads_dom.js",
+        "nlp_core.js",
+        "tts_engine.js",
+        "ai_client.js",
+        "overlay_ui.js",
+        "content_main.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
