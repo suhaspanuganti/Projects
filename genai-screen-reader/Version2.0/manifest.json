@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "AI Smart Reader V2 - NLP + AI + OCR + Voice",
+  "version": "2.0.0",
+  "description": "Smart accessibility reader with summarization, OCR, voice search, and keyboard-driven navigation.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "run_at": "document_idle",
+      "js": [
+        "tts_client.js",
+        "ai_client.js",
+        "ocr_client.js",
+        "overlay_ui.js",
+        "voice_controller.js",
+        "content_main.js"
+      ]
+    }
+  ]
+}
