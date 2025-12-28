@@ -35,7 +35,7 @@ This project demonstrates \*\*transfer learning\*\*, \*\*computer vision\*\*, an
 
 
 
-\## 🧠 Project Architecture
+\🧠 Project Architecture
 
 
 
@@ -67,7 +67,7 @@ Live Bounding Box + Label (Mask / No Mask)
 
 
 
-\## 📂 Project Structure
+\ 📂 Project Structure
 
 
 
@@ -113,7 +113,7 @@ Face-Mask-Detection/
 
 
 
-\## 🏗️ Model Details
+\ 🏗️ Model Details
 
 
 
@@ -125,7 +125,7 @@ Face-Mask-Detection/
 
 
 
-\### 🔹 Custom Classification Head
+\ 🔹 Custom Classification Head
 
 
 
@@ -139,7 +139,7 @@ Face-Mask-Detection/
 
 
 
-\### 🔹 Training Configuration
+\ 🔹 Training Configuration
 
 
 
