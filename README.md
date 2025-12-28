@@ -1,30 +1,151 @@
-README – AI Smart Reader Intelligent Web Accessibility Assistant using NLP, OCR, and Voice Navigation
+# Projects
 
-Project Overview
-AI Smart Reader is a browser-based accessibility tool designed to help visually impaired users and fast readers consume webpage content more efficiently. It intelligently extracts meaningful text, summarizes content using NLP, performs OCR on images, and provides voice-based navigation.
+A curated collection of academic, research, and applied software projects developed during my graduate studies and independent work.
 
-Key Features:
-1.	Intelligent Content Extraction 2. AI Summarization (NLP)
-2.	Text-to-Speech Narration 4. Hover-to-Read Interaction 5. Voice Navigation
-3.	Interactive Element Detection 7. OCR Integration
-4.	Page Summary Mode
+This repository serves as a **project hub** — each folder represents a focused project with its own documentation, scope, and implementation details.
 
-System Architecture:
-1.	Content Capture Layer (DOM extraction, OCR) 2. NLP Layer (Summarization, Semantic Matching) 3. Voice Interaction Layer (SpeechRecognition, Fuzzy Search) 4. Output Layer (TTS, Overlay UI) 5. Browser Extension Shell (Manifest V3)
+---
+
+## 📁 Repository Structure
+
+Each project lives in its **own folder** with a dedicated `README.md` explaining:
+- the problem statement
+- system design
+- technologies used
+- outcomes and learnings
+
+```
+
+Projects/
+├── genai-screen-reader/
+├── genai-cash-flow/
+├── citeseerx-migration/
+├── rental-platform/
+├── Intelligent-Load-Balancing-Framework-for-Fog/
+├── Face-Mask-Detector/
+└── README.md
+
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 GenAI Screen Reader
+**Folder:** `genai-screen-reader/`  
+An accessibility-focused tool that summarizes and reads web content for visually impaired users.
+
+- NLP-based content extraction
+- OCR support for images
+- Clean summaries + voice navigation
+- Designed for real-world web noise
+
+---
+
+### 🔹 GenAI for Cash Flow Intelligence
+**Folder:** `genai-cash-flow/`  
+An independent study research project exploring how Generative AI can support cash-flow analysis in FinTech.
+
+- AI-assisted insight extraction
+- Research-style academic report
+- Focus on interpretability over prediction
+- Non-published, academic work
+
+---
+
+### 🔹 CiteSeerX Migration & Sitemap Generation
+**Folder:** `citeseerx-migration/`  
+Large-scale archival migration and automated sitemap/index generation for academic PDFs.
+
+- Python-based automation
+- Checksum-driven indexing
+- Designed for scale and reproducibility
+- Inspired by CiteSeerX-style repositories
+
+---
+
+### 🔹 Rental Convenience Platform (Privacy-first)
+**Folder:** `rental-platform/`  
+A privacy-first rental website concept connecting property owners and seekers without exposing personal contact details.
+
+- Secure, in-app communication
+- Role-based workflows
+- Free hosting–friendly architecture
+- Concept + system design focus
+
+---
+
+### 🔹 Intelligent Load Balancing for Fog Computing
+**Folder:** `Intelligent-Load-Balancing-Framework-for-Fog/`  
+A fog-computing framework that distributes healthcare sensor workloads efficiently.
+
+- Load balancing logic
+- Latency-aware task allocation
+- Healthcare-oriented use case
+- Academic + systems focus
+
+---
+
+### 🔹 Face Mask Detection
+**Folder:** `Face-Mask-Detector/`  
+A computer vision project for real-time face mask detection.
+
+- CNN-based classification
+- OpenCV integration
+- Real-time camera feed processing
+- Early applied ML project
+
+---
+
+## 🧭 How to Navigate
+
+1. Open any project folder
+2. Read the project-specific `README.md`
+3. Review code, reports, and media included in that folder
+
+Each project is **self-contained** by design.
+
+---
+
+## 🎯 Purpose of This Repository
+
+This repository reflects:
+- applied engineering skills
+- research thinking
+- system design mindset
+- progression from ML/CV to GenAI and large-scale systems
+
+It is intended for:
+- recruiters
+- collaborators
+- academic reviewers
+- anyone exploring my technical work
+
+---
+
+## 📌 Notes
+
+- Some projects include PDFs, demo videos, or reports
+- API keys and secrets are **not included**
+- Documentation quality improves with project maturity
+
+---
+
+## 🔗 Portfolio
+
+A visual, interactive version of these projects is available at:  
+👉 **https://suhaspanuganti.github.io**
+
+---
+
+## 📬 Contact
+
+For questions, collaboration, or discussion, feel free to connect via LinkedIn or GitHub.
+
+---
+
+**— Suhas Panuganti**
+```
 
 
-Workflow: Extract → Clean → Summarize → Preview Overlay → TTS → User Interaction → OCR Support
-→ Voice Navigation
-
-Installation:
-1.	Open chrome://extensions 2. Enable Developer Mode
-2.	Load Unpacked Extension
-
-
-Keyboard & Voice Controls: P – Page summary
-Shift + P – Priority-only summary 1 / 2 / 3 – Priority marking Space – Pause/Resume
-ESC – Stop TTS
-Ctrl + Shift + A – Re-summarize V – Activate voice recognition
-
-
-The output may not be visible because the OPENAI key we used for ai has been diabled as it was posted online. check the video above for output
+You’re doing this right — now it *looks* right too.
