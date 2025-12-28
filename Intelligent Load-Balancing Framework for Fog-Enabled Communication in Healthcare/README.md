@@ -1,166 +1,205 @@
-# 🏥 Intelligent Load-Balancing Framework for Fog-Enabled Healthcare Monitoring
+🏥 Intelligent Load-Balancing Framework for Fog-Enabled Healthcare Monitoring
 
-This repository contains a **healthcare monitoring prototype inspired by fog computing principles**, designed to simulate real-time patient vital monitoring, clustering, and alerting.
+This repository contains a fog-computing–inspired healthcare monitoring system that simulates real-time patient vital monitoring, clustering, and load-balanced processing across virtual machines (VMs).
 
-The system models how patient data can be processed closer to the edge (fog layer) to reduce latency and enable faster response in healthcare applications.
+The project demonstrates how fog/edge-level processing can reduce latency and distribute computational load for healthcare IoT applications.
 
----
+📌 Project Description
 
-## 📌 Project Overview
+Traditional cloud-centric healthcare systems can suffer from:
 
-Modern healthcare systems rely on continuous data from IoT devices (heart rate monitors, glucose sensors, etc.).
-Cloud-only architectures can introduce **latency and overload**.
+High latency
 
-This project demonstrates a **fog-enabled approach** by:
+Network congestion
 
-* Grouping patients into clusters
-* Simulating real-time vital signs
-* Processing data at cluster (fog/VM-like) level
-* Triggering alerts when abnormal vitals are detected
+Centralized overload
 
----
+This project models a fog-enabled approach by:
 
-## ⚙️ Features
+Grouping patients into clusters
 
-* ✅ Real-time simulation of patient heart rate
-* ✅ Blood glucose level simulation (main version)
-* ✅ Patient clustering (fog-style grouping)
-* ✅ Continuous monitoring loop
-* ✅ SMS alert mechanism (Twilio – optional, configurable)
-* ✅ Logging of abnormal vitals
-* ✅ Simple VM / cluster abstraction (conceptual fog layer)
+Processing patient data at VM (fog node) level
 
----
+Monitoring vital signs continuously
 
-## 📂 Repository Structure
+Logging abnormal health conditions
 
-```
+Demonstrating load distribution across VMs
+
+The system is simulation-based and intended for academic and demonstration purposes.
+
+⚙️ Key Features
+
+Real-time heart-rate simulation
+
+Blood-glucose simulation (main version)
+
+Patient clustering (fog-style grouping)
+
+VM-level load distribution
+
+Continuous monitoring loop
+
+Abnormal vital detection
+
+SMS alert support (optional, configurable)
+
+Runtime logging of health events
+
+📂 Repository Structure
 .
-├── cloudgen.py          # Main fog-based healthcare monitoring program
-├── generator.py         # Simpler prototype (heart-rate only)
-├── suhas_report.pdf     # Final academic project report
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
+├── Load Balancer Results/
+│   ├── vm1_results.txt
+│   ├── vm2_results.txt
+│   └── vm3_results.txt
+│
+├── Outputs/
+│   └── health_logs.txt
+│
+├── cloudgen.py
+├── generator.py
+└── suhas report.pdf
 
-> ⚠️ Runtime-generated files such as logs and VM outputs are intentionally excluded from version control.
+📁 Folder Explanation
+🔹 Load Balancer Results/
 
----
+Contains sample VM-level output files generated during execution.
 
-## 🧠 Code Description
+Each file represents processing performed by a simulated fog/VM node
 
-### 🔹 `cloudgen.py` (Main Program)
+Demonstrates how workload is distributed across multiple nodes
 
-* Simulates **heart rate and blood glucose**
-* Divides patients into clusters (fog nodes)
-* Processes data per cluster
-* Logs abnormal conditions
-* Sends SMS alerts (optional)
-* Closest implementation to the **fog load-balancing concept**
+Files are included only as sample outputs for demonstration
 
-### 🔹 `generator.py` (Optional / Simple Prototype)
+🔹 Outputs/
 
-* Heart-rate-only monitoring
-* Easier to read and demonstrate
-* Useful as an early or lightweight prototype
+Contains consolidated runtime logs.
 
----
+health_logs.txt records abnormal health events
 
-## 📊 Sample Output (Conceptual)
+Used to demonstrate alerting and monitoring behavior
 
-```
-Cluster 7 | Anya | 24 | 95 bpm | Normal | 98 mg/dL | Normal
-Cluster 7 | Saitama | 32 | 112 bpm | High | 104 mg/dL | Normal
-```
+Included as a sample execution snapshot
 
-Abnormal readings trigger alerts and are logged locally.
+In a production environment, these outputs would be generated dynamically and excluded from version control.
 
----
+🧠 Code Overview
+🔸 cloudgen.py (Main Program)
 
-## 🔐 SMS Alerts (Optional)
+Simulates heart rate and blood glucose
 
-The project supports SMS alerts using **Twilio**.
+Reads patient data from Excel
 
-To enable:
+Divides patients into clusters
 
-1. Create a Twilio account
-2. Set credentials as environment variables:
+Processes clusters through VM-like logic
 
-   ```
-   TWILIO_ACCOUNT_SID
-   TWILIO_AUTH_TOKEN
-   TWILIO_PHONE_NUMBER
-   ```
-3. Do **not** hardcode credentials in source files
+Logs abnormal vitals
 
-SMS functionality is optional and can be disabled if not needed.
+Sends SMS alerts (optional)
 
----
+Closest implementation of the fog load-balancing concept
 
-## 🚀 How to Run
+Run this file for the full project behavior.
 
-### 1️⃣ Install dependencies
+🔸 generator.py (Simpler Prototype)
 
-```bash
+Heart-rate-only simulation
+
+Simpler clustering logic
+
+Useful for understanding the core monitoring flow
+
+Acts as an early / lightweight prototype
+
+▶️ How to Run
+1️⃣ Install dependencies
 pip install -r requirements.txt
-```
 
-### 2️⃣ Run the main program
-
-```bash
+2️⃣ Run the main program
 python cloudgen.py
-```
+
 
 The program will:
 
-* Load patient data
-* Form clusters
-* Simulate vitals
-* Continuously monitor patients
+Load patient data
 
-Press `CTRL + C` to stop.
+Form clusters
 
----
+Simulate vitals continuously
 
-## 📚 Academic Context
+Log abnormal events
+
+Generate VM-level output files
+
+Stop execution with:
+
+CTRL + C
+
+🔐 SMS Alert Support (Optional)
+
+The system supports SMS alerts using Twilio.
+
+To enable alerts:
+
+Configure Twilio credentials as environment variables:
+
+TWILIO_ACCOUNT_SID
+TWILIO_AUTH_TOKEN
+TWILIO_PHONE_NUMBER
+
+
+SMS functionality is optional and can be disabled if not required
+
+No credentials are hard-coded in the repository.
+
+📊 Sample Output (Conceptual)
+Cluster 7 | Saitama | 32 | Heart Rate: 112 (High) | Glucose: 98 (Normal)
+Cluster 7 | Anya    | 24 | Heart Rate: 95 (Normal) | Glucose: 102 (Normal)
+
+
+Abnormal values are logged and optionally trigger alerts.
+
+📚 Academic Context
 
 This project was developed as part of an academic submission titled:
 
-**“Intelligent Load-Balancing Framework for Fog-Enabled Communication in Healthcare”**
+“Intelligent Load-Balancing Framework for Fog-Enabled Communication in Healthcare”
 
-The included PDF provides:
+The included PDF (suhas report.pdf) contains:
 
-* Problem definition
-* Literature survey
-* Architecture diagrams
-* Algorithm descriptions
-* Discussion and future scope
+Problem statement
 
----
+Literature survey
 
-## ⚠️ Disclaimer
+System architecture
 
-* Patient data used in this project is **synthetic**
-* Names and values are for demonstration only
-* This is a **prototype**, not a production medical system
+Algorithm design
 
----
+Discussion and future scope
 
-## 🔮 Future Enhancements
+⚠️ Disclaimer
 
-* Integrate real IoT sensor data
-* Add true fog/edge node scheduling
-* Web dashboard for monitoring
-* Database-backed logging
-* Machine learning–based anomaly detection
+All patient data used is synthetic
 
----
+Names and values are for demonstration only
 
-## 👤 Author
+This system is a prototype, not a production medical solution
 
-**Suhas Panuganti**
+🔮 Future Enhancements
+
+Integration with real IoT sensor data
+
+True fog/edge node scheduling
+
+Web-based monitoring dashboard
+
+Database-backed logging
+
+ML-based anomaly detection
+
+👤 Author
+
+Suhas Panuganti
 Bachelor of Engineering – Computer Science
 Fog Computing | Healthcare Systems | Python
-
-
