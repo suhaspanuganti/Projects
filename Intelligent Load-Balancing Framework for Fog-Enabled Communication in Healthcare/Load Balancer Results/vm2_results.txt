@@ -1,0 +1,6 @@
+Cluster 8	golem	12	+916300759610	71	Normal	112	Normal
+Cluster 8	kernel	12	+916300759610	63	Normal	103	Normal
+Cluster 8	faraz	12	+916300759610	98	Normal	115	Normal
+Cluster 8	abhuday	24	+916300759610	71	Normal	75	Normal
+Cluster 8	winzo	13	+916300759610	72	Normal	90	Normal
+Cluster 8	anya	8	+916300759610	95	Normal	98	Normal

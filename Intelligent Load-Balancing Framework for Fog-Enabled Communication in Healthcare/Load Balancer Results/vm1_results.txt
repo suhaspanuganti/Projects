@@ -1,0 +1,6 @@
+Cluster 7	robert	41	+916300759610	87	Normal	92	Normal
+Cluster 7	pekka	32	+916300759610	71	Normal	87	Normal
+Cluster 7	xenon	31	+916300759610	100	Normal	104	Normal
+Cluster 7	saitama	24	+916300759610	60	Normal	93	Normal
+Cluster 7	carles	12	+916300759610	76	Normal	71	Normal
+Cluster 7	yamate	35	+916300759610	87	Normal	100	Normal

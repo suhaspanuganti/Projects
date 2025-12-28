@@ -1,0 +1,6699 @@
+Cluster: Cluster 5
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 48 (Low)
+Blood Glucose: 102 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 42 (Low)
+Blood Glucose: 80 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: carles
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 68 (Normal)
+Blood Glucose: 57 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 117 (High)
+Blood Glucose: 91 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 54 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 41 (Low)
+Blood Glucose: 105 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 50 (Low)
+Blood Glucose: 108 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 90 (Normal)
+Blood Glucose: 65 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 114 (High)
+Blood Glucose: 72 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 53 (Low)
+Blood Glucose: 87 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 63 (Normal)
+Blood Glucose: 40 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 117 (High)
+Blood Glucose: 104 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 48 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 50 (Low)
+Blood Glucose: 109 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 114 (High)
+Blood Glucose: 91 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 40 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 52 (Low)
+Blood Glucose: 77 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 93 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 93 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 41 (Low)
+Blood Glucose: 117 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: gojo
+Age: 23
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 117 (High)
+Blood Glucose: 85 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 54 (Low)
+Blood Glucose: 105 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 57 (Low)
+Blood Glucose: 87 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 115 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 41 (Low)
+Blood Glucose: 72 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 112 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 115 (High)
+Blood Glucose: 101 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 81 (Normal)
+Blood Glucose: 69 (Low)
+-----------------------------------
+Cluster: Cluster 3
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 109 (High)
+Blood Glucose: 98 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 117 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 93 (Normal)
+Blood Glucose: 140 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 54 (Low)
+Blood Glucose: 79 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 53 (Low)
+Blood Glucose: 104 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 104 (High)
+Blood Glucose: 98 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 117 (High)
+Blood Glucose: 112 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 110 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 73 (Normal)
+Blood Glucose: 46 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 76 (Normal)
+Blood Glucose: 131 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 86 (Normal)
+Blood Glucose: 48 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 96 (Normal)
+Blood Glucose: 53 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 119 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 82 (Normal)
+Blood Glucose: 43 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 104 (High)
+Blood Glucose: 80 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 81 (Normal)
+Blood Glucose: 65 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 93 (Normal)
+Blood Glucose: 47 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 100 (Normal)
+Blood Glucose: 139 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 92 (Normal)
+Blood Glucose: 128 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 59 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 82 (Normal)
+Blood Glucose: 64 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 99 (Normal)
+Blood Glucose: 68 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 146 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 99 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 73 (Normal)
+Blood Glucose: 67 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 104 (High)
+Blood Glucose: 71 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 51 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 77 (Normal)
+Blood Glucose: 140 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 57 (Low)
+Blood Glucose: 107 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 96 (Normal)
+Blood Glucose: 124 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 94 (Normal)
+Blood Glucose: 132 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 140 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 65 (Normal)
+Blood Glucose: 131 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 100 (Normal)
+Blood Glucose: 56 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: shravya
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 81 (Normal)
+Blood Glucose: 54 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 101 (High)
+Blood Glucose: 86 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 83 (Normal)
+Blood Glucose: 49 (Low)
+-----------------------------------
+Cluster: Cluster 3
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 79 (Normal)
+Blood Glucose: 124 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 69 (Normal)
+Blood Glucose: 126 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 66 (Normal)
+Blood Glucose: 64 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 52 (Low)
+Blood Glucose: 79 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 114 (High)
+Blood Glucose: 98 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 124 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 96 (Normal)
+Blood Glucose: 141 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 54 (Low)
+Blood Glucose: 91 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 149 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 53 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 106 (High)
+Blood Glucose: 90 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 120 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 52 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 82 (Normal)
+Blood Glucose: 47 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 77 (Normal)
+Blood Glucose: 64 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 141 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 75 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 80 (Normal)
+Blood Glucose: 130 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 82 (Normal)
+Blood Glucose: 59 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 69 (Normal)
+Blood Glucose: 53 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: shravya
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 68 (Normal)
+Blood Glucose: 124 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 72 (Normal)
+Blood Glucose: 54 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: shravya
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 49 (Low)
+Blood Glucose: 115 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 100 (Normal)
+Blood Glucose: 42 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: carles
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 96 (Normal)
+Blood Glucose: 149 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 80 (Normal)
+Blood Glucose: 133 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 71 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 142 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 87 (Normal)
+Blood Glucose: 141 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 94 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 134 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 52 (Low)
+Blood Glucose: 101 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 52 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 90 (Normal)
+Blood Glucose: 45 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 96 (Normal)
+Blood Glucose: 135 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 92 (Normal)
+Blood Glucose: 143 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 85 (Normal)
+Blood Glucose: 130 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 143 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 77 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 59 (Low)
+Blood Glucose: 95 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 59 (Low)
+Blood Glucose: 113 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 92 (Normal)
+Blood Glucose: 144 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 63 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 93 (Normal)
+Blood Glucose: 143 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 100 (Normal)
+Blood Glucose: 46 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 129 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 108 (High)
+Blood Glucose: 71 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 66 (Normal)
+Blood Glucose: 129 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 138 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: gojo
+Age: 23
+Mobile Number: +916300759610
+Heart Rate: 40 (Low)
+Blood Glucose: 104 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 127 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 58 (Low)
+Blood Glucose: 70 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 75 (Normal)
+Blood Glucose: 65 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 130 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 79 (Normal)
+Blood Glucose: 137 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 69 (Normal)
+Blood Glucose: 59 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 93 (Normal)
+Blood Glucose: 60 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 110 (High)
+Blood Glucose: 84 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 89 (Normal)
+Blood Glucose: 43 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: hector
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 65 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: gojo
+Age: 23
+Mobile Number: +916300759610
+Heart Rate: 85 (Normal)
+Blood Glucose: 146 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 101 (High)
+Blood Glucose: 115 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 43 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 86 (Normal)
+Blood Glucose: 132 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 62 (Normal)
+Blood Glucose: 123 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 55 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 95 (Normal)
+Blood Glucose: 139 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 76 (Normal)
+Blood Glucose: 53 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 86 (Normal)
+Blood Glucose: 54 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 85 (Normal)
+Blood Glucose: 137 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 120 (High)
+Blood Glucose: 109 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 87 (Normal)
+Blood Glucose: 137 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 68 (Normal)
+Blood Glucose: 56 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 66 (Normal)
+Blood Glucose: 129 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 101 (High)
+Blood Glucose: 70 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 68 (Normal)
+Blood Glucose: 46 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 77 (Normal)
+Blood Glucose: 139 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 91 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 83 (Normal)
+Blood Glucose: 139 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 66 (Normal)
+Blood Glucose: 50 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: shravya
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 49 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 92 (Normal)
+Blood Glucose: 57 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 43 (Low)
+Blood Glucose: 95 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 99 (Normal)
+Blood Glucose: 124 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 81 (Normal)
+Blood Glucose: 43 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 105 (High)
+Blood Glucose: 97 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 149 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 139 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 40 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 69 (Normal)
+Blood Glucose: 123 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 105 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 63 (Normal)
+Blood Glucose: 49 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 129 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 65 (Normal)
+Blood Glucose: 149 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 83 (Normal)
+Blood Glucose: 50 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 72 (Normal)
+Blood Glucose: 53 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 42 (Low)
+Blood Glucose: 72 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 145 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 80 (Normal)
+Blood Glucose: 49 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 49 (Low)
+Blood Glucose: 93 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 66 (Normal)
+Blood Glucose: 149 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 42 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 127 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 81 (Normal)
+Blood Glucose: 132 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 93 (Normal)
+Blood Glucose: 149 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 66 (Normal)
+Blood Glucose: 131 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 86 (Normal)
+Blood Glucose: 150 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 73 (Normal)
+Blood Glucose: 137 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 69 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 69 (Normal)
+Blood Glucose: 127 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 92 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 42 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 67 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 85 (Normal)
+Blood Glucose: 66 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 68 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 150 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 86 (Normal)
+Blood Glucose: 67 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 48 (Low)
+Blood Glucose: 71 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 40 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 53 (Low)
+Blood Glucose: 86 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 87 (Normal)
+Blood Glucose: 54 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 81 (Normal)
+Blood Glucose: 130 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 48 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 65 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 99 (Normal)
+Blood Glucose: 46 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 64 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 78 (Normal)
+Blood Glucose: 131 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 149 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 95 (Normal)
+Blood Glucose: 130 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 76 (Normal)
+Blood Glucose: 44 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 80 (Normal)
+Blood Glucose: 60 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 87 (Normal)
+Blood Glucose: 46 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 76 (Normal)
+Blood Glucose: 48 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 92 (Normal)
+Blood Glucose: 121 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 86 (Normal)
+Blood Glucose: 60 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 117 (High)
+Blood Glucose: 102 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: gojo
+Age: 23
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 45 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 150 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 95 (Normal)
+Blood Glucose: 45 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 78 (Normal)
+Blood Glucose: 58 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 61 (Normal)
+Blood Glucose: 65 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 64 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 44 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 89 (Normal)
+Blood Glucose: 145 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 116 (High)
+Blood Glucose: 120 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 79 (Normal)
+Blood Glucose: 139 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 81 (Normal)
+Blood Glucose: 41 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 40 (Low)
+Blood Glucose: 96 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 122 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 125 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 150 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 104 (High)
+Blood Glucose: 89 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 64 (Normal)
+Blood Glucose: 144 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 145 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 122 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 95 (Normal)
+Blood Glucose: 129 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 82 (Normal)
+Blood Glucose: 135 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 68 (Normal)
+Blood Glucose: 122 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 141 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 109 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 105 (High)
+Blood Glucose: 100 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 62 (Normal)
+Blood Glucose: 142 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 41 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 92 (Normal)
+Blood Glucose: 139 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 96 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 53 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 85 (Normal)
+Blood Glucose: 43 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 86 (Normal)
+Blood Glucose: 56 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 45 (Low)
+Blood Glucose: 90 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 81 (Normal)
+Blood Glucose: 48 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 69 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 87 (Normal)
+Blood Glucose: 129 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 93 (Normal)
+Blood Glucose: 144 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 92 (Normal)
+Blood Glucose: 127 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 75 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: robert
+Age: 41
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 55 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: carles
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 79 (Normal)
+Blood Glucose: 142 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 62 (Normal)
+Blood Glucose: 137 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 132 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 68 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 76 (Normal)
+Blood Glucose: 124 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: gojo
+Age: 23
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 40 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 56 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 80 (Normal)
+Blood Glucose: 62 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 101 (High)
+Blood Glucose: 84 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 93 (Normal)
+Blood Glucose: 133 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 131 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 43 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 85 (Normal)
+Blood Glucose: 46 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 99 (Normal)
+Blood Glucose: 45 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 63 (Normal)
+Blood Glucose: 147 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 82 (Normal)
+Blood Glucose: 59 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 73 (Normal)
+Blood Glucose: 146 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 121 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 52 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 56 (Low)
+Blood Glucose: 103 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 66 (Normal)
+Blood Glucose: 125 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 63 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 135 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 49 (Low)
+Blood Glucose: 74 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 62 (Normal)
+Blood Glucose: 143 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 98 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 63 (Normal)
+Blood Glucose: 48 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 54 (Low)
+Blood Glucose: 90 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 76 (Normal)
+Blood Glucose: 141 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 90 (Normal)
+Blood Glucose: 136 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 63 (Normal)
+Blood Glucose: 58 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 56 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 95 (Normal)
+Blood Glucose: 140 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 72 (Normal)
+Blood Glucose: 133 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 83 (Normal)
+Blood Glucose: 121 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 127 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 65 (Normal)
+Blood Glucose: 41 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: robert
+Age: 41
+Mobile Number: +916300759610
+Heart Rate: 96 (Normal)
+Blood Glucose: 125 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 68 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 69 (Normal)
+Blood Glucose: 57 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 68 (Normal)
+Blood Glucose: 134 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 86 (Normal)
+Blood Glucose: 60 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 82 (Normal)
+Blood Glucose: 142 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 79 (Normal)
+Blood Glucose: 55 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 78 (Normal)
+Blood Glucose: 141 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: carles
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 99 (Normal)
+Blood Glucose: 135 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 99 (Normal)
+Blood Glucose: 58 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 77 (Normal)
+Blood Glucose: 135 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 96 (Normal)
+Blood Glucose: 138 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 121 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 48 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 78 (Normal)
+Blood Glucose: 141 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: shravya
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 43 (Low)
+Blood Glucose: 70 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 96 (Normal)
+Blood Glucose: 55 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 63 (Normal)
+Blood Glucose: 66 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 83 (Normal)
+Blood Glucose: 124 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 72 (Normal)
+Blood Glucose: 132 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 76 (Normal)
+Blood Glucose: 52 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 95 (Normal)
+Blood Glucose: 134 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 72 (Normal)
+Blood Glucose: 140 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 94 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 132 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 89 (Normal)
+Blood Glucose: 133 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 63 (Normal)
+Blood Glucose: 122 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 134 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 83 (Normal)
+Blood Glucose: 42 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: hector
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 48 (Low)
+Blood Glucose: 72 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 95 (Normal)
+Blood Glucose: 64 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 81 (Normal)
+Blood Glucose: 52 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 135 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 81 (Normal)
+Blood Glucose: 59 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 65 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 61 (Normal)
+Blood Glucose: 47 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 62 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 113 (High)
+Blood Glucose: 100 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 99 (Normal)
+Blood Glucose: 62 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 64 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 87 (Normal)
+Blood Glucose: 45 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 135 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 90 (Normal)
+Blood Glucose: 123 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 45 (Low)
+Blood Glucose: 101 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 120 (High)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 104 (High)
+Blood Glucose: 97 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 56 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 90 (Normal)
+Blood Glucose: 68 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 48 (Low)
+Blood Glucose: 113 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 140 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 59 (Low)
+Blood Glucose: 85 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 92 (Normal)
+Blood Glucose: 145 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 52 (Low)
+Blood Glucose: 82 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 85 (Normal)
+Blood Glucose: 61 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 137 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 143 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 78 (Normal)
+Blood Glucose: 56 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 82 (Normal)
+Blood Glucose: 54 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 77 (Normal)
+Blood Glucose: 60 (Low)
+-----------------------------------
+Cluster: Cluster 3
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 63 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 81 (Normal)
+Blood Glucose: 140 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 121 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 97 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 143 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 87 (Normal)
+Blood Glucose: 65 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: hector
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 82 (Normal)
+Blood Glucose: 137 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 72 (Normal)
+Blood Glucose: 41 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 115 (High)
+Blood Glucose: 97 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 143 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 138 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 47 (Low)
+-----------------------------------
+Cluster: Cluster 3
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 50 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 144 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 59 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 75 (Normal)
+Blood Glucose: 137 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 127 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 68 (Normal)
+Blood Glucose: 58 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 75 (Normal)
+Blood Glucose: 52 (Low)
+-----------------------------------
+Cluster: Cluster 3
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 121 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 72 (Normal)
+Blood Glucose: 40 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 44 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 92 (Normal)
+Blood Glucose: 56 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 114 (High)
+Blood Glucose: 96 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 78 (Normal)
+Blood Glucose: 54 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 86 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 81 (Normal)
+Blood Glucose: 57 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 116 (High)
+Blood Glucose: 97 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 65 (Normal)
+Blood Glucose: 123 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 95 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 120 (High)
+Blood Glucose: 84 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 58 (Low)
+Blood Glucose: 101 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 101 (High)
+Blood Glucose: 85 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 58 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 114 (High)
+Blood Glucose: 103 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 107 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 120 (High)
+Blood Glucose: 103 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 93 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: carles
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 86 (Normal)
+Blood Glucose: 124 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 45 (Low)
+Blood Glucose: 119 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 57 (Low)
+Blood Glucose: 119 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 49 (Low)
+Blood Glucose: 74 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 86 (Normal)
+Blood Glucose: 49 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 106 (High)
+Blood Glucose: 84 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 62 (Normal)
+Blood Glucose: 143 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 104 (High)
+Blood Glucose: 99 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 57 (Low)
+Blood Glucose: 114 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 115 (High)
+Blood Glucose: 116 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: carles
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 64 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 104 (High)
+Blood Glucose: 80 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 51 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 40 (Low)
+Blood Glucose: 107 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: hector
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 113 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: carles
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 64 (Normal)
+Blood Glucose: 65 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 42 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 110 (High)
+Blood Glucose: 109 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 45 (Low)
+Blood Glucose: 76 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 56 (Low)
+Blood Glucose: 99 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 86 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 53 (Low)
+Blood Glucose: 98 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 93 (Normal)
+Blood Glucose: 45 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 110 (High)
+Blood Glucose: 98 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: carles
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 53 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 47 (Low)
+Blood Glucose: 91 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: robert
+Age: 41
+Mobile Number: +916300759610
+Heart Rate: 51 (Low)
+Blood Glucose: 84 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 72 (Normal)
+Blood Glucose: 123 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 108 (High)
+Blood Glucose: 90 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 117 (High)
+Blood Glucose: 83 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 106 (High)
+Blood Glucose: 82 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 116 (High)
+Blood Glucose: 116 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 110 (High)
+Blood Glucose: 70 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 50 (Low)
+Blood Glucose: 101 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 59 (Low)
+Blood Glucose: 86 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 94 (Normal)
+Blood Glucose: 49 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 80 (Normal)
+Blood Glucose: 41 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: shravya
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 103 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 90 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 69 (Normal)
+Blood Glucose: 142 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 48 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 145 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 75 (Normal)
+Blood Glucose: 52 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 100 (Normal)
+Blood Glucose: 66 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 42 (Low)
+Blood Glucose: 116 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 55 (Low)
+Blood Glucose: 86 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 64 (Normal)
+Blood Glucose: 42 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 72 (Normal)
+Blood Glucose: 42 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 118 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 101 (High)
+Blood Glucose: 107 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 95 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 83 (Normal)
+Blood Glucose: 63 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: shravya
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 47 (Low)
+Blood Glucose: 120 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 104 (High)
+Blood Glucose: 93 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 93 (Normal)
+Blood Glucose: 136 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 49 (Low)
+Blood Glucose: 101 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 80 (Normal)
+Blood Glucose: 139 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 40 (Low)
+Blood Glucose: 112 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 113 (High)
+Blood Glucose: 116 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 55 (Low)
+Blood Glucose: 76 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 74 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: robert
+Age: 41
+Mobile Number: +916300759610
+Heart Rate: 113 (High)
+Blood Glucose: 114 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 93 (Normal)
+Blood Glucose: 146 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 92 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 45 (Low)
+Blood Glucose: 76 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 72 (Normal)
+Blood Glucose: 65 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 96 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 41 (Low)
+Blood Glucose: 111 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 55 (Low)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 115 (High)
+Blood Glucose: 71 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 106 (High)
+Blood Glucose: 71 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 105 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 58 (Low)
+Blood Glucose: 76 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 114 (High)
+Blood Glucose: 74 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 80 (Normal)
+Blood Glucose: 144 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 63 (Normal)
+Blood Glucose: 124 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 43 (Low)
+Blood Glucose: 101 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 108 (High)
+Blood Glucose: 95 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 42 (Low)
+Blood Glucose: 86 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 55 (Low)
+Blood Glucose: 78 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 108 (High)
+Blood Glucose: 116 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 104 (High)
+Blood Glucose: 98 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 80 (Normal)
+Blood Glucose: 134 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: shravya
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 64 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: gojo
+Age: 23
+Mobile Number: +916300759610
+Heart Rate: 109 (High)
+Blood Glucose: 93 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 77 (Normal)
+Blood Glucose: 62 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 117 (High)
+Blood Glucose: 116 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 55 (Low)
+Blood Glucose: 108 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 47 (Low)
+Blood Glucose: 116 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 108 (High)
+Blood Glucose: 99 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 58 (Low)
+Blood Glucose: 73 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 82 (Normal)
+Blood Glucose: 53 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 144 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 63 (Normal)
+Blood Glucose: 133 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 104 (High)
+Blood Glucose: 78 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: shravya
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 42 (Low)
+Blood Glucose: 81 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 64 (Normal)
+Blood Glucose: 49 (Low)
+-----------------------------------
+Cluster: Cluster 3
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 40 (Low)
+Blood Glucose: 99 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 40 (Low)
+Blood Glucose: 78 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 64 (Normal)
+Blood Glucose: 67 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 87 (Normal)
+Blood Glucose: 150 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 103 (High)
+Blood Glucose: 115 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 94 (Normal)
+Blood Glucose: 131 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 69 (Normal)
+Blood Glucose: 141 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: gojo
+Age: 23
+Mobile Number: +916300759610
+Heart Rate: 106 (High)
+Blood Glucose: 71 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 56 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 58 (Low)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 58 (Low)
+Blood Glucose: 107 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 48 (Low)
+Blood Glucose: 62 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 48 (Low)
+Blood Glucose: 62 (Low)
+-----------------------------------
+Cluster: Cluster 3
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 56 (Low)
+Blood Glucose: 89 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 146 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 64 (Normal)
+Blood Glucose: 54 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: gojo
+Age: 23
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 82 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 113 (High)
+Blood Glucose: 84 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 122 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 122 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 109 (High)
+Blood Glucose: 84 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 43 (Low)
+Blood Glucose: 72 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 50 (Low)
+Blood Glucose: 55 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 50 (Low)
+Blood Glucose: 55 (Low)
+-----------------------------------
+Cluster: Cluster 3
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 104 (High)
+Blood Glucose: 99 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 115 (High)
+Blood Glucose: 87 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 120 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 89 (Normal)
+Blood Glucose: 54 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: gojo
+Age: 23
+Mobile Number: +916300759610
+Heart Rate: 54 (Low)
+Blood Glucose: 117 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: carles
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 140 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 141 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 40 (Low)
+Blood Glucose: 112 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 66 (Normal)
+Blood Glucose: 48 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 113 (High)
+Blood Glucose: 92 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 64 (Normal)
+Blood Glucose: 58 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: hector
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 101 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 83 (Normal)
+Blood Glucose: 145 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 123 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 96 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 40 (Low)
+Blood Glucose: 105 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 92 (Normal)
+Blood Glucose: 143 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 104 (High)
+Blood Glucose: 86 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 131 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 96 (Normal)
+Blood Glucose: 66 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: shravya
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 105 (High)
+Blood Glucose: 104 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 103 (High)
+Blood Glucose: 99 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 41 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 87 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 78 (Normal)
+Blood Glucose: 44 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 114 (High)
+Blood Glucose: 72 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 80 (Normal)
+Blood Glucose: 141 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 100 (Normal)
+Blood Glucose: 142 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 79 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 79 (Normal)
+Blood Glucose: 54 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 42 (Low)
+Blood Glucose: 88 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 59 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 45 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 106 (High)
+Blood Glucose: 109 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 127 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 51 (Low)
+Blood Glucose: 81 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 149 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 101 (High)
+Blood Glucose: 112 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 48 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 72 (Normal)
+Blood Glucose: 41 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 106 (High)
+Blood Glucose: 78 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 73 (Normal)
+Blood Glucose: 65 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 42 (Low)
+Blood Glucose: 81 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 120 (High)
+Blood Glucose: 79 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: hector
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 106 (High)
+Blood Glucose: 112 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 50 (Low)
+Blood Glucose: 68 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 50 (Low)
+Blood Glucose: 68 (Low)
+-----------------------------------
+Cluster: Cluster 3
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 50 (Low)
+Blood Glucose: 104 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 88 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 76 (Normal)
+Blood Glucose: 62 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 99 (Normal)
+Blood Glucose: 46 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 56 (Low)
+Blood Glucose: 47 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 56 (Low)
+Blood Glucose: 47 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 92 (Normal)
+Blood Glucose: 69 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 117 (High)
+Blood Glucose: 74 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 83 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 87 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 48 (Low)
+Blood Glucose: 115 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 51 (Low)
+Blood Glucose: 70 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 90 (Normal)
+Blood Glucose: 67 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 45 (Low)
+Blood Glucose: 108 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 115 (High)
+Blood Glucose: 89 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 42 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 101 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 47 (Low)
+Blood Glucose: 117 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 100 (Normal)
+Blood Glucose: 130 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 63 (Normal)
+Blood Glucose: 53 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 109 (High)
+Blood Glucose: 101 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 147 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 68 (Normal)
+Blood Glucose: 67 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 125 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 109 (High)
+Blood Glucose: 90 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 106 (High)
+Blood Glucose: 79 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 41 (Low)
+Blood Glucose: 114 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 41 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 63 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: hector
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 45 (Low)
+Blood Glucose: 80 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 95 (Normal)
+Blood Glucose: 53 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 52 (Low)
+Blood Glucose: 99 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: robert
+Age: 41
+Mobile Number: +916300759610
+Heart Rate: 78 (Normal)
+Blood Glucose: 51 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 108 (High)
+Blood Glucose: 100 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 92 (Normal)
+Blood Glucose: 51 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 72 (Normal)
+Blood Glucose: 51 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 129 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 71 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 51 (Low)
+Blood Glucose: 82 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 136 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 51 (Low)
+Blood Glucose: 91 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 47 (Low)
+Blood Glucose: 86 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 96 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 61 (Normal)
+Blood Glucose: 60 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 50 (Low)
+Blood Glucose: 112 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 105 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 63 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 63 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 73 (Normal)
+Blood Glucose: 40 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 110 (High)
+Blood Glucose: 77 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 96 (Normal)
+Blood Glucose: 43 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: shravya
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 116 (High)
+Blood Glucose: 104 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 68 (Normal)
+Blood Glucose: 54 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 103 (High)
+Blood Glucose: 112 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: robert
+Age: 41
+Mobile Number: +916300759610
+Heart Rate: 86 (Normal)
+Blood Glucose: 131 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 65 (Normal)
+Blood Glucose: 128 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 119 (High)
+Blood Glucose: 79 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 79 (Normal)
+Blood Glucose: 146 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 78 (Normal)
+Blood Glucose: 137 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 136 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 119 (High)
+Blood Glucose: 84 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 92 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 114 (High)
+Blood Glucose: 93 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 57 (Low)
+Blood Glucose: 110 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 59 (Low)
+Blood Glucose: 105 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 64 (Normal)
+Blood Glucose: 68 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 117 (High)
+Blood Glucose: 75 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 118 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 87 (Normal)
+Blood Glucose: 125 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 51 (Low)
+Blood Glucose: 87 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 61 (Normal)
+Blood Glucose: 136 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 150 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 57 (Low)
+Blood Glucose: 96 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 49 (Low)
+Blood Glucose: 109 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 46 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 46 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 57 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 49 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 68 (Normal)
+Blood Glucose: 139 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 120 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: hector
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 112 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 78 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 46 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 110 (High)
+Blood Glucose: 88 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 74 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 116 (High)
+Blood Glucose: 75 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 66 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 86 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 79 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 119 (High)
+Blood Glucose: 71 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 52 (Low)
+Blood Glucose: 111 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 93 (Normal)
+Blood Glucose: 58 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 75 (Normal)
+Blood Glucose: 126 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 46 (Low)
+Blood Glucose: 40 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 46 (Low)
+Blood Glucose: 40 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 136 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 46 (Low)
+Blood Glucose: 109 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 69 (Normal)
+Blood Glucose: 53 (Low)
+-----------------------------------
+Cluster: Cluster 3
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 110 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 68 (Normal)
+Blood Glucose: 46 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: robert
+Age: 41
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 58 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 52 (Low)
+Blood Glucose: 111 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 56 (Low)
+Blood Glucose: 111 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 42 (Low)
+Blood Glucose: 115 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 55 (Low)
+Blood Glucose: 120 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: shravya
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 135 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 65 (Normal)
+Blood Glucose: 61 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 45 (Low)
+Blood Glucose: 71 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 66 (Normal)
+Blood Glucose: 62 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 87 (Normal)
+Blood Glucose: 50 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 47 (Low)
+Blood Glucose: 91 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 112 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 119 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 110 (High)
+Blood Glucose: 70 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 106 (High)
+Blood Glucose: 86 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 150 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 105 (High)
+Blood Glucose: 110 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 134 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 101 (High)
+Blood Glucose: 105 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 47 (Low)
+Blood Glucose: 118 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 116 (High)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 53 (Low)
+Blood Glucose: 111 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: shravya
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 69 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 65 (Normal)
+Blood Glucose: 126 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 76 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 66 (Normal)
+Blood Glucose: 147 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 128 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 60 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 80 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 132 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 83 (Normal)
+Blood Glucose: 127 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 71 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 113 (High)
+Blood Glucose: 119 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 95 (Normal)
+Blood Glucose: 128 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 100 (Normal)
+Blood Glucose: 136 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 85 (Normal)
+Blood Glucose: 65 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: hector
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 89 (Normal)
+Blood Glucose: 48 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 102 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 46 (Low)
+Blood Glucose: 88 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 103 (High)
+Blood Glucose: 75 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 120 (High)
+Blood Glucose: 70 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 57 (Low)
+Blood Glucose: 70 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 114 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 68 (Normal)
+Blood Glucose: 52 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 78 (Normal)
+Blood Glucose: 147 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 139 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 45 (Low)
+Blood Glucose: 120 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 50 (Low)
+Blood Glucose: 115 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 41 (Low)
+Blood Glucose: 76 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 51 (Low)
+Blood Glucose: 74 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 56 (Low)
+Blood Glucose: 105 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 100 (Normal)
+Blood Glucose: 61 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 52 (Low)
+Blood Glucose: 119 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 63 (Normal)
+Blood Glucose: 43 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 95 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 109 (High)
+Blood Glucose: 78 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: gojo
+Age: 23
+Mobile Number: +916300759610
+Heart Rate: 82 (Normal)
+Blood Glucose: 63 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 55 (Low)
+Blood Glucose: 70 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 59 (Low)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: gojo
+Age: 23
+Mobile Number: +916300759610
+Heart Rate: 58 (Low)
+Blood Glucose: 117 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 99 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 117 (High)
+Blood Glucose: 91 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 100 (Normal)
+Blood Glucose: 48 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 68 (Normal)
+Blood Glucose: 147 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 101 (High)
+Blood Glucose: 73 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 47 (Low)
+Blood Glucose: 104 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 104 (High)
+Blood Glucose: 90 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 58 (Low)
+Blood Glucose: 74 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 66 (Normal)
+Blood Glucose: 121 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: robert
+Age: 41
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 48 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 73 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: carles
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 108 (High)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 47 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 55 (Low)
+Blood Glucose: 113 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: carles
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 43 (Low)
+Blood Glucose: 113 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 79 (Normal)
+Blood Glucose: 56 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: hector
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 86 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 46 (Low)
+Blood Glucose: 111 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 82 (Normal)
+Blood Glucose: 136 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 50 (Low)
+Blood Glucose: 102 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 100 (Normal)
+Blood Glucose: 49 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: hector
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 62 (Normal)
+Blood Glucose: 135 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 83 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 53 (Low)
+Blood Glucose: 103 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 47 (Low)
+Blood Glucose: 77 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 61 (Normal)
+Blood Glucose: 65 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 134 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 77 (Normal)
+Blood Glucose: 135 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 56 (Low)
+Blood Glucose: 96 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 109 (High)
+Blood Glucose: 74 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 94 (Normal)
+Blood Glucose: 130 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 116 (High)
+Blood Glucose: 109 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 46 (Low)
+Blood Glucose: 55 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 46 (Low)
+Blood Glucose: 55 (Low)
+-----------------------------------
+Cluster: Cluster 3
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 59 (Low)
+Blood Glucose: 118 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 87 (Normal)
+Blood Glucose: 129 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 45 (Low)
+Blood Glucose: 102 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: hector
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 50 (Low)
+Blood Glucose: 74 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 45 (Low)
+Blood Glucose: 116 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 107 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: shravya
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 48 (Low)
+Blood Glucose: 93 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 136 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 44 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 137 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 113 (High)
+Blood Glucose: 80 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 40 (Low)
+Blood Glucose: 78 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 62 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 109 (High)
+Blood Glucose: 102 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 95 (Normal)
+Blood Glucose: 55 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 120 (High)
+Blood Glucose: 108 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 105 (High)
+Blood Glucose: 100 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 51 (Low)
+Blood Glucose: 77 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 65 (Normal)
+Blood Glucose: 125 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 77 (Normal)
+Blood Glucose: 46 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 43 (Low)
+Blood Glucose: 99 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 51 (Low)
+Blood Glucose: 108 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 104 (High)
+Blood Glucose: 73 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 56 (Low)
+Blood Glucose: 118 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 50 (Low)
+Blood Glucose: 109 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 117 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 120 (High)
+Blood Glucose: 118 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 57 (Low)
+Blood Glucose: 98 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 53 (Low)
+Blood Glucose: 71 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 56 (Low)
+Blood Glucose: 116 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 94 (Normal)
+Blood Glucose: 148 (High)
+-----------------------------------
+Cluster: Cluster 9
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 87 (Normal)
+Blood Glucose: 58 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 103 (High)
+Blood Glucose: 109 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 99 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: robert
+Age: 41
+Mobile Number: +916300759610
+Heart Rate: 47 (Low)
+Blood Glucose: 111 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 45 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 58 (Low)
+Blood Glucose: 97 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 76 (Normal)
+Blood Glucose: 43 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 126 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 85 (Normal)
+Blood Glucose: 56 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: mikey
+Age: 16
+Mobile Number: +916300759610
+Heart Rate: 59 (Low)
+Blood Glucose: 120 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 121 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 105 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 114 (High)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 53 (Low)
+Blood Glucose: 79 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 86 (Normal)
+Blood Glucose: 65 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 55 (Low)
+Blood Glucose: 100 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: quionton
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 58 (Low)
+Blood Glucose: 76 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 58 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 117 (High)
+Blood Glucose: 105 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 126 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 50 (Low)
+Blood Glucose: 113 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 66 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 94 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 41 (Low)
+Blood Glucose: 94 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 81 (Normal)
+Blood Glucose: 42 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 114 (High)
+Blood Glucose: 99 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 96 (Normal)
+Blood Glucose: 122 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 53 (Low)
+Blood Glucose: 119 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 54 (Low)
+Blood Glucose: 95 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: pekka
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 46 (Low)
+Blood Glucose: 99 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 77 (Normal)
+Blood Glucose: 49 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 108 (High)
+Blood Glucose: 118 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 98 (Normal)
+Blood Glucose: 137 (High)
+-----------------------------------
+Cluster: Cluster 7
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 110 (High)
+Blood Glucose: 77 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 76 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 100 (Normal)
+Blood Glucose: 138 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 56 (Low)
+Blood Glucose: 91 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 43 (Low)
+Blood Glucose: 98 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 119 (High)
+Blood Glucose: 101 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 73 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 108 (High)
+Blood Glucose: 93 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 110 (High)
+Blood Glucose: 74 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 100 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 80 (Normal)
+Blood Glucose: 130 (High)
+-----------------------------------
+Cluster: Cluster 5
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 106 (High)
+Blood Glucose: 97 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: carles
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 101 (High)
+Blood Glucose: 116 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 90 (Normal)
+Blood Glucose: 43 (Low)
+-----------------------------------
+Cluster: Cluster 9
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 114 (High)
+Blood Glucose: 120 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 109 (High)
+Blood Glucose: 79 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 134 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 134 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 119 (High)
+Blood Glucose: 95 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 59 (Low)
+Blood Glucose: 117 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 45 (Low)
+Blood Glucose: 81 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 115 (High)
+Blood Glucose: 84 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 116 (High)
+Blood Glucose: 115 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 117 (High)
+Blood Glucose: 88 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 76 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 109 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 41 (Low)
+Blood Glucose: 93 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 113 (High)
+Blood Glucose: 112 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 114 (High)
+Blood Glucose: 72 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 45 (Low)
+Blood Glucose: 111 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 89 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 41 (Low)
+Blood Glucose: 97 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 53 (Low)
+Blood Glucose: 94 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: nezuko
+Age: 7
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 93 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 108 (High)
+Blood Glucose: 102 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 59 (Low)
+Blood Glucose: 111 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: vandal
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 114 (High)
+Blood Glucose: 73 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 47 (Low)
+Blood Glucose: 117 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 78 (Normal)
+Blood Glucose: 46 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 66 (Normal)
+Blood Glucose: 59 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 51 (Low)
+Blood Glucose: 120 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 101 (High)
+Blood Glucose: 111 (Normal)
+-----------------------------------
+Cluster: Cluster 9
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 114 (High)
+Blood Glucose: 119 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 67 (Low)
+-----------------------------------
+Cluster: Cluster 2
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 82 (Normal)
+Blood Glucose: 62 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 119 (High)
+Blood Glucose: 70 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 117 (High)
+Blood Glucose: 100 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 74 (Normal)
+Blood Glucose: 127 (High)
+-----------------------------------
+Cluster: Cluster 6
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 54 (Low)
+Blood Glucose: 112 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 116 (High)
+Blood Glucose: 103 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 117 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: mitsuki
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 58 (Low)
+Blood Glucose: 101 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 54 (Low)
+-----------------------------------
+Cluster: Cluster 3
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 54 (Low)
+Blood Glucose: 91 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 48 (Low)
+Blood Glucose: 105 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 66 (Normal)
+Blood Glucose: 51 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 48 (Low)
+Blood Glucose: 100 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 53 (Low)
+Blood Glucose: 80 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 113 (High)
+Blood Glucose: 116 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 59 (Low)
+Blood Glucose: 84 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: robert
+Age: 41
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 134 (High)
+-----------------------------------
+Cluster: Cluster 3
+Name: madara
+Age: 55
+Mobile Number: +916300759610
+Heart Rate: 41 (Low)
+Blood Glucose: 83 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 59 (Low)
+Blood Glucose: 103 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 116 (High)
+Blood Glucose: 90 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 64 (Normal)
+Blood Glucose: 44 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 103 (High)
+Blood Glucose: 111 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 62 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: hector
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 97 (Normal)
+Blood Glucose: 53 (Low)
+-----------------------------------
+Cluster: Cluster 3
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 71 (Normal)
+Blood Glucose: 67 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 84 (Normal)
+Blood Glucose: 133 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: omen
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 105 (High)
+Blood Glucose: 84 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: jimmy
+Age: 27
+Mobile Number: +916300759610
+Heart Rate: 48 (Low)
+Blood Glucose: 108 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 88 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 120 (High)
+Blood Glucose: 96 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 77 (Normal)
+Blood Glucose: 147 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 41 (Low)
+Blood Glucose: 79 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 61 (Normal)
+Blood Glucose: 69 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: tanmay
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 52 (Low)
+Blood Glucose: 92 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: uday
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 57 (Low)
+Blood Glucose: 94 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 67 (Normal)
+Blood Glucose: 46 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 69 (Normal)
+Blood Glucose: 143 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: andrew
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 117 (High)
+Blood Glucose: 88 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 59 (Low)
+Blood Glucose: 114 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 70 (Normal)
+Blood Glucose: 48 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 110 (High)
+Blood Glucose: 116 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 78 (Normal)
+Blood Glucose: 143 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 103 (High)
+Blood Glucose: 90 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 111 (High)
+Blood Glucose: 95 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 51 (Low)
+Blood Glucose: 99 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: chad
+Age: 21
+Mobile Number: +916300759610
+Heart Rate: 53 (Low)
+Blood Glucose: 75 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 105 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 106 (High)
+Blood Glucose: 70 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: suzume
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 79 (Normal)
+Blood Glucose: 123 (High)
+-----------------------------------
+Cluster: Cluster 2
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 47 (Low)
+Blood Glucose: 97 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 78 (Normal)
+Blood Glucose: 68 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 116 (High)
+Blood Glucose: 76 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 100 (Normal)
+Blood Glucose: 67 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: marshall
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 61 (Normal)
+Blood Glucose: 53 (Low)
+-----------------------------------
+Cluster: Cluster 6
+Name: ivan
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 102 (High)
+Blood Glucose: 92 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 51 (Low)
+Blood Glucose: 109 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: sasuke
+Age: 32
+Mobile Number: +916300759610
+Heart Rate: 119 (High)
+Blood Glucose: 83 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: blaze
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 82 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: robert
+Age: 41
+Mobile Number: +916300759610
+Heart Rate: 49 (Low)
+Blood Glucose: 78 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: suhas
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 112 (High)
+Blood Glucose: 111 (Normal)
+-----------------------------------
+Cluster: Cluster 4
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 48 (Low)
+Blood Glucose: 120 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: siddu
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 66 (Normal)
+Blood Glucose: 43 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 107 (High)
+Blood Glucose: 115 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: chintu
+Age: 14
+Mobile Number: +916300759610
+Heart Rate: 83 (Normal)
+Blood Glucose: 43 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 52 (Low)
+Blood Glucose: 85 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 110 (High)
+Blood Glucose: 111 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 91 (Normal)
+Blood Glucose: 144 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: abhuday
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 48 (Low)
+Blood Glucose: 72 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 53 (Low)
+Blood Glucose: 117 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: robert
+Age: 41
+Mobile Number: +916300759610
+Heart Rate: 46 (Low)
+Blood Glucose: 101 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: neon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 112 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 103 (High)
+Blood Glucose: 106 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: luke
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 80 (Normal)
+Blood Glucose: 50 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: yamate
+Age: 35
+Mobile Number: +916300759610
+Heart Rate: 63 (Normal)
+Blood Glucose: 146 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 56 (Low)
+Blood Glucose: 120 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: anya
+Age: 8
+Mobile Number: +916300759610
+Heart Rate: 92 (Normal)
+Blood Glucose: 43 (Low)
+-----------------------------------
+Cluster: Cluster 4
+Name: tanjiro
+Age: 17
+Mobile Number: +916300759610
+Heart Rate: 57 (Low)
+Blood Glucose: 120 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 72 (Normal)
+Blood Glucose: 64 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 42 (Low)
+Blood Glucose: 84 (Normal)
+-----------------------------------
+Cluster: Cluster 5
+Name: rajesh
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 42 (Low)
+Blood Glucose: 74 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: gamur
+Age: 18
+Mobile Number: +916300759610
+Heart Rate: 60 (Normal)
+Blood Glucose: 64 (Low)
+-----------------------------------
+Cluster: Cluster 7
+Name: xenon
+Age: 31
+Mobile Number: +916300759610
+Heart Rate: 118 (High)
+Blood Glucose: 120 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: golem
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 42 (Low)
+Blood Glucose: 115 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 46 (Low)
+Blood Glucose: 111 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: wisp
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 110 (High)
+Blood Glucose: 80 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 55 (Low)
+-----------------------------------
+Cluster: Cluster 5
+Name: hashirama
+Age: 67
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 144 (High)
+-----------------------------------
+Cluster: Cluster 8
+Name: winzo
+Age: 13
+Mobile Number: +916300759610
+Heart Rate: 109 (High)
+Blood Glucose: 96 (Normal)
+-----------------------------------
+Cluster: Cluster 1
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 41 (Low)
+Blood Glucose: 99 (Normal)
+-----------------------------------
+Cluster: Cluster 2
+Name: damon
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 110 (High)
+Blood Glucose: 94 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: luffy
+Age: 19
+Mobile Number: +916300759610
+Heart Rate: 88 (Normal)
+Blood Glucose: 66 (Low)
+-----------------------------------
+Cluster: Cluster 8
+Name: kernel
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 120 (High)
+Blood Glucose: 95 (Normal)
+-----------------------------------
+Cluster: Cluster 3
+Name: julious
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 48 (Low)
+Blood Glucose: 117 (Normal)
+-----------------------------------
+Cluster: Cluster 7
+Name: saitama
+Age: 24
+Mobile Number: +916300759610
+Heart Rate: 44 (Low)
+Blood Glucose: 93 (Normal)
+-----------------------------------
+Cluster: Cluster 8
+Name: faraz
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 64 (Normal)
+Blood Glucose: 143 (High)
+-----------------------------------
+Cluster: Cluster 1
+Name: sherif
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 62 (Normal)
+Blood Glucose: 62 (Low)
+-----------------------------------
+Cluster: Cluster 1
+Name: zeref
+Age: 26
+Mobile Number: +916300759610
+Heart Rate: 69 (Normal)
+Blood Glucose: 137 (High)
+-----------------------------------
+Cluster: Cluster 4
+Name: emily
+Age: 12
+Mobile Number: +916300759610
+Heart Rate: 103 (High)
+Blood Glucose: 102 (Normal)
+-----------------------------------
+Cluster: Cluster 6
+Name: vegeta
+Age: 28
+Mobile Number: +916300759610
+Heart Rate: 115 (High)
+Blood Glucose: 94 (Normal)
+-----------------------------------
