@@ -1,4 +1,4 @@
-\# 😷 Face Mask Detection System (Deep Learning \& Computer Vision)
+ 😷 Face Mask Detection System (Deep Learning \& Computer Vision)
 
 
 
@@ -13,8 +13,7 @@ This project demonstrates \*\*transfer learning\*\*, \*\*computer vision\*\*, an
 ---
 
 
-
-\## 📌 Features
+ 📌 Features
 
 
 
